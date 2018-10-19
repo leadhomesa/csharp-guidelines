@@ -43,9 +43,7 @@ Regardless of the elegance of someone's solution, if it's too complex for the or
 
 ### 1.4. Things to note
 - Give the original document a read. It might be worth comparing with what we are following here.
-- **Discuss and expand on this document.** Nothing is set in stone. 
-- Make sure there are always a few hard copies of the [Cheat Sheet]() close at hand. 
-- Include the most critical coding guidelines on your [Project Checklist]() and verify the remainder as part of your [Code Review]().
+- **Discuss and expand on this document.** Nothing is set in stone.
 
 ### 1.5 Adding new rules
 If you add a new rule to this guideline, please consider using the following template:
