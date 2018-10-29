@@ -20,7 +20,7 @@
 1. Add unit tests to test the logic introduced
 1. Note the test cases in your pull request in plain english so we know which scenarios have been tested
 
-**Note** The above scenario is an ideal and mostly applies to new functionality. Dependening on the extent of the spaghetti you were dealing with, a PR for a refactor can get quite hairy. In these cases, try and keep any additional changes minimal or propely point out any changes that you made and why.
+**Note** The above scenario is an ideal and mostly applies to new functionality. Dependening on the extent of the spaghetti you were dealing with, a PR for a refactor can get quite hairy. In these cases, try and keep any additional changes minimal or properly point out any changes that you made and why.
 
 #### For database models
 
